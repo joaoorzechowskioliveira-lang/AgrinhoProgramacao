@@ -44,7 +44,7 @@ const depoimentos = [
 ];
 
 const faqs = [
-    { pergunta: "Qual o foco atual do ecossistema agrícola do Paraná em 2026?", resposta: "A prioridade total está na rastreabilidade socioambiental de ponta, acoplada à biotecnologia avançada para atender aos novos ecossistemas regulatórios internacionais." },
+    { pergunta: "Qual o foco atual do ecossistema agrícola do Paraná em 2026?", resposta: "A prioridade total está na sustentabilidade socioambiental de ponta, acoplada à biotecnologia avançada para atender aos novos ecossistemas regulatórios internacionais." },
     { pergunta: "Como funciona a logística de exportação do estado?", resposta: "O escoamento flui com sinergias integradas entre a malha ferroviária e o corredor rodoviário central direcionado ao Porto de Paranaguá, um dos portos mais eficientes em grãos do mundo." },
     { pergunta: "Onde obter os dados consolidados do VBP?", font: "Os dados oficiais são compilados e revisados periodicamente pelo DERAL (Departamento de Economia Rural) e disponibilizados de forma transparente." }
 ];
